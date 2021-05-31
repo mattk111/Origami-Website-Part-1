@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+.para{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+.use{
+    color: rgb(6, 255, 234);
+    font-size: 20px;
+    font-style: oblique;
+    font-family: cursive;
+}
+.ul1{
+    color: rgb(255, 0, 221);
+    font-size: 24px;
+    font-style: oblique;
+    font-family: cursive;
+}
+.ul2{
+    color: cyan;
+    font-size: 24px;
+    font-style: oblique;
+    font-family: cursive;
+}
+.ul3{
+    color: greenyellow;
+    font-size: 24px;
+    font-style: oblique;
+    font-family: cursive;
+}
+.ul4{
+    color: darkmagenta;
+    font-size: 24px;
+    font-style: oblique;
+    font-family: cursive;
+}
+.ul5{
+    color: gold;
+    font-size: 24px;
+    font-style: oblique;
+    font-family: cursive;
+}
+.ul6{
+    color: lawngreen;
+    font-size: 24px;
+    font-style: oblique;
+    font-family: cursive;
+}
